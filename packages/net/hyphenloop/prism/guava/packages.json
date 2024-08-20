@@ -1,0 +1,63 @@
+{
+  "PackageName" : "Bootstrap Default Config",
+  "PackageUUID" : "01916d5e-beb2-7ffd-ac80-8d1d2e4a0c8c",
+  "PackageIdentifier" : "com.prism.defaultconfig",
+  "PackageVersionStyle" : "semver",
+  "PackageVersionString" : "1.0.0",
+  "PackageDescription" : "Default Configuration for PRISM Bootstrap and PreBoot",
+  "PackageLocation" : "github://Hyphen-PRISM/com.prism.defaultconfig"
+},
+{
+  "PackageName" : "Recovery Utility",
+  "PackageUUID" : "x",
+  "PackageIdentifier" : "com.prism.core.recoveryutility",
+  "PackageVersionStyle" : "semver",
+  "PackageVersionString" : "1.0.0",
+  "PackageDescription" : "Core Component - Recovery Utility",
+  "PackageLocation" : "github://Hyphen-PRISM/com.prism.recoveryutility"
+},
+{
+  "PackageName" : "First Setup",
+  "PackageUUID" : "x",
+  "PackageIdentifier" : "com.prism.core.firstsetup",
+  "PackageVersionStyle" : "semver",
+  "PackageVersionString" : "1.0.0",
+  "PackageDescription" : "Core Component - First Setup",
+  "PackageLocation" : "github://Hyphen-PRISM/com.prism.firstsetup"
+},
+{
+  "PackageName" : "Dashboard",
+  "PackageUUID" : "x",
+  "PackageIdentifier" : "com.prism.core.dashboard",
+  "PackageVersionStyle" : "semver",
+  "PackageVersionString" : "1.0.0",
+  "PackageDescription" : "Core Component - Dashboard",
+  "PackageLocation" : "github://Hyphen-PRISM/com.prism.dashboard"
+},
+{
+  "PackageName" : "Provisioning Agent",
+  "PackageUUID" : "x",
+  "PackageIdentifier" : "com.prism.core.provisioningagent",
+  "PackageVersionStyle" : "semver",
+  "PackageVersionString" : "1.0.0",
+  "PackageDescription" : "Core Component - Provisioning Agent - Used for Automated Provisioning and licensing of installations trough a generated machine serial which is unique to the device.",
+  "PackageLocation" : "github://Hyphen-PRISM/com.prism.provisioningagent"
+},
+{
+  "PackageName" : "Core Framework",
+  "PackageUUID" : "x",
+  "PackageIdentifier" : "com.prism.core.framework",
+  "PackageVersionStyle" : "semver",
+  "PackageVersionString" : "1.0.0",
+  "PackageDescription" : "Core Component - Framework - The heart piece",
+  "PackageLocation" : "github://Hyphen-PRISM/com.prism.core.framework"
+},
+{
+  "PackageName" : "Framework API",
+  "PackageUUID" : "x",
+  "PackageIdentifier" : "com.prism.core.frameworkapi",
+  "PackageVersionStyle" : "semver",
+  "PackageVersionString" : "1.0.0",
+  "PackageDescription" : "Core Component - Framework API",
+  "PackageLocation" : "github://Hyphen-PRISM/com.prism.recoveryutility"
+},
