@@ -61,3 +61,12 @@
   "PackageDescription" : "Core Component - Framework API",
   "PackageLocation" : "github://Hyphen-PRISM/com.prism.recoveryutility"
 },
+{
+  "PackageName" : "HYPHEN Dash",
+  "PackageUUID" : "0192ae0e-6cc1-7a39-9a6e-0cb9101656cf",
+  "PackageIdentifier" : "net.hyphendash",
+  "PackageVersionStyle" : "semver",
+  "PackageVersionString" : "1.0.0",
+  "PackageDescription" : "Modular Dashboard for a variety of use cases",
+  "PackageLocation" : "github://Hyphen-PRISM/net.hyphendash"
+},
